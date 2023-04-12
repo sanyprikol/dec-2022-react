@@ -40,7 +40,6 @@ const Simpsons = () => {
         },
     ];
     return (
-
     <div>
         {simpsons.map((simpson,index) => <Simpson simpson = {simpson} key = {index}/>)}
         </div>

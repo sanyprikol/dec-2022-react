@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Simpson = ({simpson}) => {
     const {name, surname, age, info, photo} = simpson;
     return (

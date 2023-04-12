@@ -1,7 +1,6 @@
 import './App.css';
 import Simpsons from "./simpsons/Simpsons";
 
-
 function App() {
   return (
     <div>
